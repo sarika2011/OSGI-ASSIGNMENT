@@ -4,7 +4,7 @@ import org.osgi.service.metatype.annotations.AttributeDefinition;
 //import org.osgi.service.metatype.annotations.AttributeType;
 import org.osgi.service.metatype.annotations.ObjectClassDefinition;
 
-@ObjectClassDefinition(name = "Student Configuration",description="Configuration by kapil")
+@ObjectClassDefinition(name = "Student Configuration",description="Configuration by sarika")
 public @interface StudentConfiguration {
 
 	@AttributeDefinition(
