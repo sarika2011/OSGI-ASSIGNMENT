@@ -50,6 +50,9 @@ public class SimpleServlet extends SlingSafeMethodsServlet {
     
     @Reference
     StudentImpl i;
+    
+     @Reference
+    Student1 student1;
 
     @Override
     protected void doGet(final SlingHttpServletRequest req,
